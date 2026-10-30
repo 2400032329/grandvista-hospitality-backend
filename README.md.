@@ -1,0 +1,47 @@
+# GrandVista Hospitality
+
+A smart hospitality management platform built using Java and Spring Boot microservices.
+
+## About the Project
+
+GrandVista Hospitality is designed to simplify hotel operations through a microservices-based architecture. It helps manage room availability, reservations, payments, and user authentication.
+
+## Features
+
+- Room inventory management
+- Dynamic room reservation management
+- Secure user authentication using JWT
+- Payment processing
+- Service discovery using Eureka
+- API Gateway for centralized request routing
+- Load balancing between service instances
+
+## Technologies
+
+- Java
+- Spring Boot
+- Spring Cloud
+- MySQL
+- Spring Data JPA
+- REST APIs
+- JWT Authentication
+- Maven
+
+## Architecture
+
+The project consists of six microservices:
+
+1. Room Service
+2. Booking Service
+3. Payment Service
+4. Authentication Service
+5. API Gateway
+6. Eureka Discovery Server
+
+## Project Goal
+
+To build a scalable, modular, and reliable hospitality management system using microservices architecture.
+
+---
+
+**GrandVista Hospitality – Smart Management, Seamless Reservations.**
